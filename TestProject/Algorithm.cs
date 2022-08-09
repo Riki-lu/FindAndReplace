@@ -4,7 +4,6 @@ namespace TestProject
 {
     public static class Algorithm
     {
-        //The last version update in Git
 
         /// <summary>
         /// wrapper function-call the all functions in order to find and replace the Customer Data
